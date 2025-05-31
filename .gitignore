@@ -1,0 +1,16 @@
+# Archivos de configuración de Visual Studio
+*.vcxproj
+*.vcxproj.filters
+
+# Carpeta de configuración de Visual Studio
+.vs/
+
+# Archivos binarios y de compilación
+bin/
+obj/
+
+# Archivos temporales y de depuración
+*.pdb
+*.log
+*.suo
+*.user
